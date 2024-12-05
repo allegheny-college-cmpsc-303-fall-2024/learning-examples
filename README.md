@@ -6,3 +6,4 @@
 - [KNN with scikit learn](https://colab.research.google.com/github/teliofm/Minerando/blob/master/Scikit_Learn_KNN_Best_Practices.ipynb)
 - [Support Vector Machine](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.07-Support-Vector-Machines.ipynb)
 - [Banknotes with different classifier models](https://colab.research.google.com/drive/1N3YbrixiVnmpMHeTAPAQnio4UeWs808o)
+- [K-fold example](https://colab.research.google.com/github/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_05_2_kfold.ipynb)
